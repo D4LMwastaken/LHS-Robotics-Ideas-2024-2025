@@ -1,2 +1,6 @@
 # LHS-Robotics-Ideas-2024-2025
-My ideas for my school's robotics club
+This is my ideas of what changes should be made to the Largo High School Robotics Club. I have divided every topic into folders and their own *.md
+## Beliefs
+* Hybrid + specialization approach to roles
+* Protect "common" team members from tyrannical rule
+* Accountability is key
