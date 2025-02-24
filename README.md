@@ -4,3 +4,5 @@ This is my ideas of what changes should be made to the Largo High School Robotic
 * Hybrid + specialization approach to roles
 * Protect "common" team members from tyrannical rule
 * Accountability is key
+
+Note: Archived as plans have been implemented
